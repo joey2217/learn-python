@@ -15,11 +15,11 @@ module.exports = {
   ],
   themeConfig: {
     sidebar: 'auto',
-    lastUpdated: 'LastUpdated', // string | boolean
+    lastUpdated: '上次更新', // string | boolean
     nav: [
       { text: '首页', link: '/' },
       { text: '基础语法', link: '/base/' },
-      { text: 'Github', link: 'https://github.com/BurNing1993/notebook' },
+      { text: 'Github', link: 'https://github.com/BurNing1993/learn-python/' },
     ]
   },
   plugins: [
